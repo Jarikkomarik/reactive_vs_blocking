@@ -40,6 +40,6 @@ To evaluate the performance, I executed both reactive and blocking applications 
 
 ## Mesurment tools
 
-Jmeter
+Jmeter,
 Jconsole
 
